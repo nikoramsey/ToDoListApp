@@ -1,4 +1,4 @@
-# To-Do List App ✅
+# To-Do List App 
 
 A simple to-do list built using Python and Tkinter.
 
